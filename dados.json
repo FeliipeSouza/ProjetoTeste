@@ -1,10 +1,5 @@
 {
-   "usuario1":{
-      "nome":"tyler",
-      "idade":"31"
-   },
-   "usuario2":{
-      "nome":"mandy",
-      "idade":"29"
-   }
+   "nome":"tyler",
+   "idade":"31"
 }
+
